@@ -1,0 +1,14 @@
+DISPARITY BETWEEN SEMANTIC AND NORMAL HTML ELEMENTS 
+    Semantic html elements are elements that define the content they contain. From the name of the element you know what to expect.
+        Examples: Elements like header, body, footer and title etc
+    Normal elements are non-semmantic that is, they do not define the content they contain
+        Examples: Elements like span, div etc
+DISPARITY BETWEEN SELF-CLOSING AND CLOSING TAGS IN HTML
+    Closing tags in HTML are tags that close after an opening tag and content
+        Examples: </header>, </footer>
+    Self-closing tags in HTML are tags that do not have an opening tag where its content is embedded in itself
+        Examples: </br> and </hr> etc
+WHAT DISTINGUISHES INLINE ELEMENTS FROM BLOCK ELEMENTS
+    Inline elements are elements that allow other content or elements to stay in the same line with them
+    While, Block elements are elements that do not allow content or other elements to stay in the same line with them, therefore they move down
+    
